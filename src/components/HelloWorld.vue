@@ -88,8 +88,8 @@ const sendEmail = () => {
           required
           class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-red-500 focus:border-red-500 sm:text-sm bg-transparent text-white"
         >
-          <option value="Alliance">Alliance</option>
-          <option value="Horde">Horde</option>
+          <option value="Alliance" class="text-black">Alliance</option>
+          <option value="Horde" class="text-black">Horde</option>
         </select>
       </div>
       <div class="mb-4">
